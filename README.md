@@ -9,6 +9,6 @@ Comece pelo arquivo *Curso Básico.ipynb* que são os módulos de um curso dispo
 
 ### Terceiro
 Um pacote muito importante para a estatística é o *Numpy*, para estuda-lo vamos usar um desafio de 100 exercícios criado pelo pesquisador [*Nicolas P. Rougier*](https://github.com/rougier/numpy-100), disponível no perfil dele do GitHub. 
-Na pasta Numpy-100 está a minha versão tanto da resolução quanto da tradução. 
+Na pasta `Exercícios` está a minha versão tanto da resolução quanto da tradução. 
 
 ### Quarto 
