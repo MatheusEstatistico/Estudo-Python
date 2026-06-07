@@ -12,3 +12,6 @@ Um pacote muito importante para a estatística é o *Numpy*, para estuda-lo vamo
 Na pasta `Exercícios` está a minha versão tanto da resolução quanto da tradução. 
 
 ### Quarto 
+Para a criação de relatórios envolvendo análise de dados, resultados de testes e análises gráficas usaremos o *Quarto*. Alguns modelos estão presentes na pasta de mesmo nome, para fins gerais recomenda-se ler a [*Documentação*](https://quarto.org/docs/guide/). Além disso, é importante sempre pensar na reprodutibilidade e reusabilidade.
+
+### Quinto
