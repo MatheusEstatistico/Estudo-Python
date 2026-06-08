@@ -2,6 +2,7 @@
 title: Quarto para publicações
 subtitle: Curso ministrado por Keith Galli
 author: Matheus Fernandes
+format: html
 ---
 
 # Curso de Quarto 
