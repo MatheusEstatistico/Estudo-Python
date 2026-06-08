@@ -9,3 +9,16 @@ Documentação: https://quarto.org/docs/guide/
 
 Curso no YT:  https://www.youtube.com/watch?v=_VKxTPWDhA4
 
+### Observações
+
+Nesse curso serão ignoradas todas as partes relacionadas aos fundamentos do python ou outras questões que são diretamente relacionadas apenas à base da linguagem python, para isso veja o [*Curso Básico.ipynb*](https://github.com/MatheusFernandesEstatistico/Estudo-Python/blob/main/Curso%20B%C3%A1sico.ipynb)
+
+# Introdução 
+
+```{python}
+
+```
+
+
+\newpage 
+# 
