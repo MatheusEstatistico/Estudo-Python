@@ -1,0 +1,71 @@
+---
+title: 'Relatório estatístico'
+subtitle: '999999999 - nome'
+author: 'Estatístico: Matheus Fernandes'
+---
+
+```{python}
+import matplotlib.pyplot as plt
+import numpy as np
+import pandas as pd
+from scipy import stats as st
+from scipy.stats import chi2_contingency, chi2, fisher_exact
+import seaborn as sns
+import warnings
+warnings.filterwarnings('ignore')
+
+```
+
+```{python}
+# banco de dados exemplo
+n = 100
+df = pd.DataFrame({
+    'continua1': np.random.normal(50, 10, n),
+    'continua2': np.random.normal(30, 5, n),
+    'categorica': np.random.choice(['CAT.1', 'CAT.2', 'CAT.3'], n),
+    'discreta': np.random.poisson(3, n).astype(float),
+    'binaria': np.random.choice([0, 1], n),
+    'texto': np.random.choice(['Alpha', 'Betha', 'Gamma'], n),
+})
+
+```
+
+```{python}
+def fun_freq(df, variavel):
+    freq_abs = df[variavel].value_counts()
+
+    tabela = pd.DataFrame({
+        'Frequência Absoluta': freq_abs,
+        'Frequência Relativa (%)': (freq_abs / freq_abs.sum() * 100).round(3)
+    })
+
+    tabela.loc['TOTAL'] = tabela.sum()
+
+    return tabela
+
+
+```
+
+# Objetivos 
+
+**Principal finalidade do agendamento:** xxxxxxxxxxxxxxxxx
+
+
+### Objetivo Geral 
+
+xxxxxxxxxxxxxxxxxxxxxxxxxxxxx
+
+
+### Objetivo Específico 
+
+xxxxxxxxxxxxxxxxxxxxxxxxxxxxx
+
+
+
+# Análise Descritiva 
+
+
+```{python}
+fun_freq(df, 'categorica')
+
+```
