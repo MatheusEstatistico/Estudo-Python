@@ -16,3 +16,10 @@ Para a criação de relatórios envolvendo análise de dados, resultados de test
 
 ### Quinto
 A ferramenta [*Shiny*](https://shiny.posit.co/py/) é um framework de código aberto criado pela *Posit* que permite construir aplicações web interativas e dashboards avançados usando apenas Python. Ele dispensa a necessidade de programar em HTML, CSS ou JavaScript. Pode-se ver um curso feito pelo [**]() no seu canal do [*YouTube*](). 
+
+### Sexto 
+
+
+### Sétimo 
+
+
