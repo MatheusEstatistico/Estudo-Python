@@ -18,7 +18,7 @@ Esse é um método classico para resolver o *Problema do Passeio do Cavalo de Xa
 Para a criação de relatórios envolvendo análise de dados, resultados de testes e análises gráficas usaremos o *Quarto*. Alguns modelos estão presentes na pasta de mesmo nome, para fins gerais recomenda-se ler a [*Documentação*](https://quarto.org/docs/guide/). Além disso, pode-se acessar um curso no Youtube feito por [*Keith Galli*](https://www.youtube.com/watch?v=_VKxTPWDhA4), ou ver seu [*GitHub*](https://github.com/KeithGalli/quarto-crash-course)
 
 ### Quinto
-A ferramenta [*Shiny*](https://shiny.posit.co/py/) é um framework de código aberto criado pela *Posit* que permite construir aplicações web interativas e dashboards avançados usando apenas Python. Ele dispensa a necessidade de programar em HTML, CSS ou JavaScript. Pode-se ver um curso feito pelo [**]() no seu canal do [*YouTube*](). 
+A ferramenta [*Shiny*](https://shiny.posit.co/py/) é um framework de código aberto criado pela *Posit* que permite construir aplicações web interativas e dashboards avançados usando apenas Python. Ele dispensa a necessidade de programar em HTML, CSS ou JavaScript. Pode-se ver um curso feito pelo [*Winston Chang*](https://github.com/wch) no canal do [*YouTube da Pisit PBC*](https://www.youtube.com/watch?v=--1edVmpF94&list=PL9HYL-VRX0oTJtI1dWaT9T827fe7OqFhC&index=1). 
 
 ### Sexto 
 
