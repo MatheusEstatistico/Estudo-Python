@@ -8,8 +8,11 @@ Comece pelo arquivo *Curso Básico.ipynb* que são os módulos de um curso dispo
 É interessante começar a entender projetos básicos para se familiarizar com o funcionamento da linguagem. Existem muitos projetos comuns que ajudam a estudar, verifique as pastas de `Proj_` que contém alguns exemplos.
 
 ### Terceiro
-Um pacote muito importante para a estatística é o *Numpy*, para estuda-lo vamos usar um desafio de 100 exercícios criado pelo pesquisador [*Nicolas P. Rougier*](https://github.com/rougier/numpy-100), disponível no perfil dele do GitHub. 
-Na pasta `Exercícios` está a minha versão tanto da resolução quanto da tradução. 
+##### Numpy
+Um pacote muito importante para a estatística é o *Numpy*, para estuda-lo vamos usar um desafio de 100 exercícios criado pelo pesquisador [*Nicolas P. Rougier*](https://github.com/rougier/numpy-100), disponível no perfil dele do GitHub. Na pasta `Exercícios` está a minha versão tanto da resolução quanto da tradução. 
+
+#### Heurística de Warnsdorff
+Esse é um método classico para resolver o *Problema do Passeio do Cavalo de Xadrez*. O princípio é a cada turno, o cavalo deve saltar para a casa adjacente não visitada que possua o menor número de movimentos futuros disponíveis. Na pasta `Exercícios` está a minha versão da implementação. 
 
 ### Quarto 
 Para a criação de relatórios envolvendo análise de dados, resultados de testes e análises gráficas usaremos o *Quarto*. Alguns modelos estão presentes na pasta de mesmo nome, para fins gerais recomenda-se ler a [*Documentação*](https://quarto.org/docs/guide/). Além disso, pode-se acessar um curso no Youtube feito por [*Keith Galli*](https://www.youtube.com/watch?v=_VKxTPWDhA4), ou ver seu [*GitHub*](https://github.com/KeithGalli/quarto-crash-course)
