@@ -8,6 +8,7 @@ Comece pelo arquivo *Curso Básico.ipynb* que são os módulos de um curso dispo
 É interessante começar a entender projetos básicos para se familiarizar com o funcionamento da linguagem. Existem muitos projetos comuns que ajudam a estudar, verifique a pasta de `Projetos` que contém alguns exemplos populares na internet.
 
 ### Terceiro
+Uma forma muito interessante de aprender uma linguagem é através de `Exercícios`. 
 ##### Numpy
 Um pacote muito importante para a estatística é o *Numpy*, para estuda-lo vamos usar um desafio de 100 exercícios criado pelo pesquisador [*Nicolas P. Rougier*](https://github.com/rougier/numpy-100), disponível no perfil dele do GitHub. Na pasta `Exercícios` está a minha versão tanto da resolução quanto da tradução. 
 
