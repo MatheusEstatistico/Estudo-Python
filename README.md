@@ -19,10 +19,10 @@ Esse é um método classico para resolver o *Problema do Passeio do Cavalo de Xa
 Para a criação de relatórios envolvendo análise de dados, resultados de testes e análises gráficas usaremos o *Quarto*. Alguns modelos estão presentes na pasta de mesmo nome, para fins gerais recomenda-se ler a [*Documentação*](https://quarto.org/docs/guide/). Além disso, pode-se acessar um curso no Youtube feito por [*Keith Galli*](https://www.youtube.com/watch?v=_VKxTPWDhA4), ou ver seu [*GitHub*](https://github.com/KeithGalli/quarto-crash-course)
 
 ### Quinto
-A ferramenta [*Shiny*](https://shiny.posit.co/py/) é um framework de código aberto criado pela *Posit* que permite construir aplicações web interativas e dashboards avançados usando apenas Python. Ele dispensa a necessidade de programar em HTML, CSS ou JavaScript. Pode-se ver um curso feito pelo [*Winston Chang*](https://github.com/wch) no canal do [*YouTube da Pisit PBC*](https://www.youtube.com/watch?v=--1edVmpF94&list=PL9HYL-VRX0oTJtI1dWaT9T827fe7OqFhC&index=1). 
+Depois de usar o `Quarto` por um tempo e tendo alguns problemas com as formatações e configurações para documentos em *docx* eu descobri que valeria mais a pena gastar um tempo maior criando script que fosse mais manual no princípio, mas que me desse um maior controle sobre cada aspecto do que produzo e coloco em um documento no fim das contas. Para isso... 
 
 ### Sexto 
-
+A ferramenta [*Shiny*](https://shiny.posit.co/py/) é um framework de código aberto criado pela *Posit* que permite construir aplicações web interativas e dashboards avançados usando apenas Python. Ele dispensa a necessidade de programar em HTML, CSS ou JavaScript. Pode-se ver um curso feito pelo [*Winston Chang*](https://github.com/wch) no canal do [*YouTube da Pisit PBC*](https://www.youtube.com/watch?v=--1edVmpF94&list=PL9HYL-VRX0oTJtI1dWaT9T827fe7OqFhC&index=1). 
 
 ### Sétimo 
 
