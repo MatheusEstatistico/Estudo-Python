@@ -11,3 +11,25 @@ A classe `Relatorio` guarda o documento Word e os contadores automáticos (n_tab
 Dependências:
     pip install python-docx pandas numpy scipy openpyxl matplotlib
 """
+
+from __future__ import annotations
+
+import math
+from pathlib import Path
+
+import matplotlib
+import numpy as np
+import pandas as pd
+from docx import Document
+from docx.enum.section import WD_ORIENT
+from docx.enum.table import WD_TABLE_ALIGNMENT
+from docx.enum.text import WD_ALIGN_PARAGRAPH
+from docx.oxml import OxmlElement
+from docx.oxml.ns import qn
+from docx.shared import Inches, Pt, RGBColor
+from scipy import stats
+from scipy.special import gammaln
+
+matplotlib.use("Agg")  # backend sem interface gráfica
+import matplotlib.pyplot as plt 
+
